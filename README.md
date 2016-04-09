@@ -1,0 +1,1 @@
+The first type of template for the portfolio 1.
